@@ -1,0 +1,20 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "ace/widget",
+	"title": "Ace Widget",
+	"category": "widgets",
+	"icon": "tennis",
+	"description": "Embed an Ace tennis platform widget (booking, news, or calendar).",
+	"keywords": [ "ace", "tennis", "booking", "widget" ],
+	"textdomain": "ace-wp-integration",
+	"attributes": {
+		"type": {
+			"type": "string",
+			"default": "booking"
+		}
+	},
+	"supports": {
+		"html": false
+	}
+}
