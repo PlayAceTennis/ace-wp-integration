@@ -8,8 +8,8 @@
  * Requires PHP:       7.4
  * Author:             Ace
  * Author URI:         https://playace.de
- * License:             GPL v2 or later
- * License URI:         https://www.gnu.org/licenses/gpl-2.0.html
+ * License:             GPL v3 or later
+ * License URI:         https://github.com/PlayAceTennis/ace-wp-integration/blob/main/LICENSE
  * Text Domain:        ace-wp-integration
  */
 
