@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name:       Ace Integration
- * Plugin URI:         https://playace.de
+ * Plugin URI:         https://www.playace.de
  * Description:        Official WordPress integration for the Ace tennis platform. Thin-wrapper plugin that outputs lightweight web components powered by Ace's Next.js widget infrastructure.
  * Version:            1.0.0
  * Requires at least:  5.8
  * Requires PHP:       7.4
- * Author:             Ace
+ * Author:             Ace Labs UG (haftungsbeschränkt)
  * Author URI:         https://playace.de
  * License:             GPL v3 or later
  * License URI:         https://github.com/PlayAceTennis/ace-wp-integration/blob/main/LICENSE
